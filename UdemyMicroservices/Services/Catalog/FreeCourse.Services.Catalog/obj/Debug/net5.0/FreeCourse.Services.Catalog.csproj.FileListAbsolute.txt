@@ -117,3 +117,11 @@ C:\Users\belke\OneDrive\Belgeler\GitHub\Udemy-Microservices-Course\UdemyMicroser
 C:\Users\belke\OneDrive\Belgeler\GitHub\Udemy-Microservices-Course\UdemyMicroservices\Services\Catalog\FreeCourse.Services.Catalog\obj\Debug\net5.0\ref\FreeCourse.Services.Catalog.dll
 C:\Users\belke\OneDrive\Belgeler\GitHub\Udemy-Microservices-Course\UdemyMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\FreeCourse.Shared.dll
 C:\Users\belke\OneDrive\Belgeler\GitHub\Udemy-Microservices-Course\UdemyMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\FreeCourse.Shared.pdb
+C:\Users\obelkeci\Documents\GitHub\Udemy-Microservices-Course\UdemyMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\obelkeci\Documents\GitHub\Udemy-Microservices-Course\UdemyMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\obelkeci\Documents\GitHub\Udemy-Microservices-Course\UdemyMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\obelkeci\Documents\GitHub\Udemy-Microservices-Course\UdemyMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\obelkeci\Documents\GitHub\Udemy-Microservices-Course\UdemyMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\obelkeci\Documents\GitHub\Udemy-Microservices-Course\UdemyMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\obelkeci\Documents\GitHub\Udemy-Microservices-Course\UdemyMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\FreeCourse.Shared.dll
+C:\Users\obelkeci\Documents\GitHub\Udemy-Microservices-Course\UdemyMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\FreeCourse.Shared.pdb
