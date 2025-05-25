@@ -36,7 +36,7 @@ internal static class HostingExtensions
             })
             .AddInMemoryIdentityResources(Config.IdentityResources)
             .AddInMemoryApiResources(Config.ApiResources)
-            .AddResourceOwnerValidator<IdentityResourceOwnerPasswordValidator>() // en son bu eklendi
+            .AddResourceOwnerValidator<IdentityResourceOwnerPasswordValidator>()
             .AddInMemoryApiScopes(Config.ApiScopes)
             .AddInMemoryClients(Config.Clients)
             .AddAspNetIdentity<ApplicationUser>();

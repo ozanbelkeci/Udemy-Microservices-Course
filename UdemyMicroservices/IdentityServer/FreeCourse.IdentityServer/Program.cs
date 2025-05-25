@@ -1,6 +1,7 @@
 ﻿using FreeCourse.IdentityServer;
 using FreeCourse.IdentityServer.Data;
 using FreeCourse.IdentityServer.Models;
+using FreeCourse.IdentityServer.Services;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Serilog;
@@ -34,6 +35,8 @@ try
         .AddAspNetIdentity<ApplicationUser>()
         .AddInMemoryClients(Config.Clients)
         .AddInMemoryIdentityResources(Config.IdentityResources)
+        .AddResourceOwnerValidator<IdentityResourceOwnerPasswordValidator>()
+        .AddInMemoryApiResources(Config.ApiResources)
         .AddInMemoryApiScopes(Config.ApiScopes)
         .AddDeveloperSigningCredential();
 

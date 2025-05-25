@@ -3,48 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\belke\\OneDrive\\Belgeler\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8FB5AC7C-0625-A286-A14C-514F2E63D009}|IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj|c:\\users\\belke\\onedrive\\belgeler\\github\\udemy-microservices-course\\udemymicroservices\\identityserver\\freecourse.identityserver\\hostingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FB5AC7C-0625-A286-A14C-514F2E63D009}|IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj|solutionrelative:identityserver\\freecourse.identityserver\\hostingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6AFE42CB-9751-4008-9539-F16A074D1649}|Services\\Basket\\FreeCourse.Services.Basket\\FreeCourse.Services.Basket.csproj|c:\\users\\belke\\onedrive\\belgeler\\github\\udemy-microservices-course\\udemymicroservices\\services\\basket\\freecourse.services.basket\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AFE42CB-9751-4008-9539-F16A074D1649}|Services\\Basket\\FreeCourse.Services.Basket\\FreeCourse.Services.Basket.csproj|solutionrelative:services\\basket\\freecourse.services.basket\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FB5AC7C-0625-A286-A14C-514F2E63D009}|IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj|c:\\users\\belke\\onedrive\\belgeler\\github\\udemy-microservices-course\\udemymicroservices\\identityserver\\freecourse.identityserver\\services\\identityresourceownerpasswordvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FB5AC7C-0625-A286-A14C-514F2E63D009}|IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj|solutionrelative:identityserver\\freecourse.identityserver\\services\\identityresourceownerpasswordvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0AA6D04F-DAF7-4D31-853F-27B730F77B5E}|Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj|c:\\users\\belke\\onedrive\\belgeler\\github\\udemy-microservices-course\\udemymicroservices\\shared\\freecourse.shared\\services\\sharedidentityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AA6D04F-DAF7-4D31-853F-27B730F77B5E}|Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj|solutionrelative:shared\\freecourse.shared\\services\\sharedidentityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{538E09E9-5F76-4A27-965B-A731E74E4228}|Services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj|c:\\users\\belke\\onedrive\\belgeler\\github\\udemy-microservices-course\\udemymicroservices\\services\\catalog\\freecourse.services.catalog\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{538E09E9-5F76-4A27-965B-A731E74E4228}|Services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj|solutionrelative:services\\catalog\\freecourse.services.catalog\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0AA6D04F-DAF7-4D31-853F-27B730F77B5E}|Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj|c:\\users\\belke\\onedrive\\belgeler\\github\\udemy-microservices-course\\udemymicroservices\\shared\\freecourse.shared\\services\\isharedidentityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AA6D04F-DAF7-4D31-853F-27B730F77B5E}|Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj|solutionrelative:shared\\freecourse.shared\\services\\isharedidentityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{538E09E9-5F76-4A27-965B-A731E74E4228}|Services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj|c:\\users\\belke\\onedrive\\belgeler\\github\\udemy-microservices-course\\udemymicroservices\\services\\catalog\\freecourse.services.catalog\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{538E09E9-5F76-4A27-965B-A731E74E4228}|Services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj|solutionrelative:services\\catalog\\freecourse.services.catalog\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6AFE42CB-9751-4008-9539-F16A074D1649}|Services\\Basket\\FreeCourse.Services.Basket\\FreeCourse.Services.Basket.csproj|c:\\users\\belke\\onedrive\\belgeler\\github\\udemy-microservices-course\\udemymicroservices\\services\\basket\\freecourse.services.basket\\services\\basketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AFE42CB-9751-4008-9539-F16A074D1649}|Services\\Basket\\FreeCourse.Services.Basket\\FreeCourse.Services.Basket.csproj|solutionrelative:services\\basket\\freecourse.services.basket\\services\\basketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FB5AC7C-0625-A286-A14C-514F2E63D009}|IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj|c:\\users\\belke\\onedrive\\belgeler\\github\\udemy-microservices-course\\udemymicroservices\\identityserver\\freecourse.identityserver\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FB5AC7C-0625-A286-A14C-514F2E63D009}|IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj|solutionrelative:identityserver\\freecourse.identityserver\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6AFE42CB-9751-4008-9539-F16A074D1649}|Services\\Basket\\FreeCourse.Services.Basket\\FreeCourse.Services.Basket.csproj|c:\\users\\belke\\onedrive\\belgeler\\github\\udemy-microservices-course\\udemymicroservices\\services\\basket\\freecourse.services.basket\\services\\redisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AFE42CB-9751-4008-9539-F16A074D1649}|Services\\Basket\\FreeCourse.Services.Basket\\FreeCourse.Services.Basket.csproj|solutionrelative:services\\basket\\freecourse.services.basket\\services\\redisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{538E09E9-5F76-4A27-965B-A731E74E4228}|Services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj|c:\\users\\belke\\onedrive\\belgeler\\github\\udemy-microservices-course\\udemymicroservices\\services\\catalog\\freecourse.services.catalog\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{538E09E9-5F76-4A27-965B-A731E74E4228}|Services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj|solutionrelative:services\\catalog\\freecourse.services.catalog\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6AFE42CB-9751-4008-9539-F16A074D1649}|Services\\Basket\\FreeCourse.Services.Basket\\FreeCourse.Services.Basket.csproj|c:\\users\\belke\\onedrive\\belgeler\\github\\udemy-microservices-course\\udemymicroservices\\services\\basket\\freecourse.services.basket\\services\\ibasketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AFE42CB-9751-4008-9539-F16A074D1649}|Services\\Basket\\FreeCourse.Services.Basket\\FreeCourse.Services.Basket.csproj|solutionrelative:services\\basket\\freecourse.services.basket\\services\\ibasketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FB5AC7C-0625-A286-A14C-514F2E63D009}|IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj|c:\\users\\belke\\onedrive\\belgeler\\github\\udemy-microservices-course\\udemymicroservices\\identityserver\\freecourse.identityserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FB5AC7C-0625-A286-A14C-514F2E63D009}|IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj|solutionrelative:identityserver\\freecourse.identityserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6AFE42CB-9751-4008-9539-F16A074D1649}|Services\\Basket\\FreeCourse.Services.Basket\\FreeCourse.Services.Basket.csproj|c:\\users\\belke\\onedrive\\belgeler\\github\\udemy-microservices-course\\udemymicroservices\\services\\basket\\freecourse.services.basket\\settings\\redissettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AFE42CB-9751-4008-9539-F16A074D1649}|Services\\Basket\\FreeCourse.Services.Basket\\FreeCourse.Services.Basket.csproj|solutionrelative:services\\basket\\freecourse.services.basket\\settings\\redissettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{538E09E9-5F76-4A27-965B-A731E74E4228}|Services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj|c:\\users\\belke\\onedrive\\belgeler\\github\\udemy-microservices-course\\udemymicroservices\\services\\catalog\\freecourse.services.catalog\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{538E09E9-5F76-4A27-965B-A731E74E4228}|Services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj|solutionrelative:services\\catalog\\freecourse.services.catalog\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FB5AC7C-0625-A286-A14C-514F2E63D009}|IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj|c:\\users\\belke\\onedrive\\belgeler\\github\\udemy-microservices-course\\udemymicroservices\\identityserver\\freecourse.identityserver\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8FB5AC7C-0625-A286-A14C-514F2E63D009}|IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj|solutionrelative:identityserver\\freecourse.identityserver\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FB5AC7C-0625-A286-A14C-514F2E63D009}|IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj|c:\\users\\belke\\onedrive\\belgeler\\github\\udemy-microservices-course\\udemymicroservices\\identityserver\\freecourse.identityserver\\dtos\\signupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FB5AC7C-0625-A286-A14C-514F2E63D009}|IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj|solutionrelative:identityserver\\freecourse.identityserver\\dtos\\signupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FB5AC7C-0625-A286-A14C-514F2E63D009}|IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj|c:\\users\\belke\\onedrive\\belgeler\\github\\udemy-microservices-course\\udemymicroservices\\identityserver\\freecourse.identityserver\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FB5AC7C-0625-A286-A14C-514F2E63D009}|IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj|solutionrelative:identityserver\\freecourse.identityserver\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6AFE42CB-9751-4008-9539-F16A074D1649}|Services\\Basket\\FreeCourse.Services.Basket\\FreeCourse.Services.Basket.csproj|c:\\users\\belke\\onedrive\\belgeler\\github\\udemy-microservices-course\\udemymicroservices\\services\\basket\\freecourse.services.basket\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6AFE42CB-9751-4008-9539-F16A074D1649}|Services\\Basket\\FreeCourse.Services.Basket\\FreeCourse.Services.Basket.csproj|solutionrelative:services\\basket\\freecourse.services.basket\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 467,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -63,145 +51,102 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IdentityResourceOwnerPasswordValidator.cs",
-              "DocumentMoniker": "C:\\Users\\belke\\OneDrive\\Belgeler\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\IdentityServer\\FreeCourse.IdentityServer\\Services\\IdentityResourceOwnerPasswordValidator.cs",
-              "RelativeDocumentMoniker": "IdentityServer\\FreeCourse.IdentityServer\\Services\\IdentityResourceOwnerPasswordValidator.cs",
-              "ToolTip": "C:\\Users\\belke\\OneDrive\\Belgeler\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\IdentityServer\\FreeCourse.IdentityServer\\Services\\IdentityResourceOwnerPasswordValidator.cs",
-              "RelativeToolTip": "IdentityServer\\FreeCourse.IdentityServer\\Services\\IdentityResourceOwnerPasswordValidator.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAuwCcAAAB7AAAAAAAAAA==",
+              "Title": "SharedIdentityService.cs",
+              "DocumentMoniker": "C:\\Users\\belke\\OneDrive\\Belgeler\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Shared\\FreeCourse.Shared\\Services\\SharedIdentityService.cs",
+              "RelativeDocumentMoniker": "Shared\\FreeCourse.Shared\\Services\\SharedIdentityService.cs",
+              "ToolTip": "C:\\Users\\belke\\OneDrive\\Belgeler\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Shared\\FreeCourse.Shared\\Services\\SharedIdentityService.cs",
+              "RelativeToolTip": "Shared\\FreeCourse.Shared\\Services\\SharedIdentityService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T23:23:07.231Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "C:\\Users\\belke\\OneDrive\\Belgeler\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Services\\Catalog\\FreeCourse.Services.Catalog\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\FreeCourse.Services.Catalog\\Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Users\\belke\\OneDrive\\Belgeler\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Services\\Catalog\\FreeCourse.Services.Catalog\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "Services\\Catalog\\FreeCourse.Services.Catalog\\Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T22:36:24.972Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\belke\\OneDrive\\Belgeler\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\IdentityServer\\FreeCourse.IdentityServer\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "IdentityServer\\FreeCourse.IdentityServer\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\belke\\OneDrive\\Belgeler\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\IdentityServer\\FreeCourse.IdentityServer\\Properties\\launchSettings.json",
-              "RelativeToolTip": "IdentityServer\\FreeCourse.IdentityServer\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-20T21:48:43.91Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\belke\\OneDrive\\Belgeler\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Services\\Catalog\\FreeCourse.Services.Catalog\\appsettings.json",
-              "RelativeDocumentMoniker": "Services\\Catalog\\FreeCourse.Services.Catalog\\appsettings.json",
-              "ToolTip": "C:\\Users\\belke\\OneDrive\\Belgeler\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Services\\Catalog\\FreeCourse.Services.Catalog\\appsettings.json",
-              "RelativeToolTip": "Services\\Catalog\\FreeCourse.Services.Catalog\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-20T21:35:16.759Z",
+              "WhenOpened": "2025-05-25T11:06:53.048Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\Users\\belke\\OneDrive\\Belgeler\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Services\\Catalog\\FreeCourse.Services.Catalog\\Startup.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\FreeCourse.Services.Catalog\\Startup.cs",
-              "ToolTip": "C:\\Users\\belke\\OneDrive\\Belgeler\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Services\\Catalog\\FreeCourse.Services.Catalog\\Startup.cs",
-              "RelativeToolTip": "Services\\Catalog\\FreeCourse.Services.Catalog\\Startup.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAmwDAAAAAyAAAAAAAAAA==",
+              "Title": "ISharedIdentityService.cs",
+              "DocumentMoniker": "C:\\Users\\belke\\OneDrive\\Belgeler\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Shared\\FreeCourse.Shared\\Services\\ISharedIdentityService.cs",
+              "RelativeDocumentMoniker": "Shared\\FreeCourse.Shared\\Services\\ISharedIdentityService.cs",
+              "ToolTip": "C:\\Users\\belke\\OneDrive\\Belgeler\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Shared\\FreeCourse.Shared\\Services\\ISharedIdentityService.cs",
+              "RelativeToolTip": "Shared\\FreeCourse.Shared\\Services\\ISharedIdentityService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T21:31:41.991Z",
+              "WhenOpened": "2025-05-25T11:06:03.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BasketService.cs",
+              "DocumentMoniker": "C:\\Users\\belke\\OneDrive\\Belgeler\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Services\\Basket\\FreeCourse.Services.Basket\\Services\\BasketService.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\FreeCourse.Services.Basket\\Services\\BasketService.cs",
+              "ToolTip": "C:\\Users\\belke\\OneDrive\\Belgeler\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Services\\Basket\\FreeCourse.Services.Basket\\Services\\BasketService.cs",
+              "RelativeToolTip": "Services\\Basket\\FreeCourse.Services.Basket\\Services\\BasketService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:35:23.437Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Config.cs",
-              "DocumentMoniker": "C:\\Users\\belke\\OneDrive\\Belgeler\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\IdentityServer\\FreeCourse.IdentityServer\\Config.cs",
-              "RelativeDocumentMoniker": "IdentityServer\\FreeCourse.IdentityServer\\Config.cs",
-              "ToolTip": "C:\\Users\\belke\\OneDrive\\Belgeler\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\IdentityServer\\FreeCourse.IdentityServer\\Config.cs",
-              "RelativeToolTip": "IdentityServer\\FreeCourse.IdentityServer\\Config.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAA1wAoAAAA9AAAAAAAAAA==",
+              "Title": "RedisService.cs",
+              "DocumentMoniker": "C:\\Users\\belke\\OneDrive\\Belgeler\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Services\\Basket\\FreeCourse.Services.Basket\\Services\\RedisService.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\FreeCourse.Services.Basket\\Services\\RedisService.cs",
+              "ToolTip": "C:\\Users\\belke\\OneDrive\\Belgeler\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Services\\Basket\\FreeCourse.Services.Basket\\Services\\RedisService.cs",
+              "RelativeToolTip": "Services\\Basket\\FreeCourse.Services.Basket\\Services\\RedisService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T19:57:03.78Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-22T21:17:26.947Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "SignupDto.cs",
-              "DocumentMoniker": "C:\\Users\\belke\\OneDrive\\Belgeler\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\IdentityServer\\FreeCourse.IdentityServer\\Dtos\\SignupDto.cs",
-              "RelativeDocumentMoniker": "IdentityServer\\FreeCourse.IdentityServer\\Dtos\\SignupDto.cs",
-              "ToolTip": "C:\\Users\\belke\\OneDrive\\Belgeler\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\IdentityServer\\FreeCourse.IdentityServer\\Dtos\\SignupDto.cs",
-              "RelativeToolTip": "IdentityServer\\FreeCourse.IdentityServer\\Dtos\\SignupDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "IBasketService.cs",
+              "DocumentMoniker": "C:\\Users\\belke\\OneDrive\\Belgeler\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Services\\Basket\\FreeCourse.Services.Basket\\Services\\IBasketService.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\FreeCourse.Services.Basket\\Services\\IBasketService.cs",
+              "ToolTip": "C:\\Users\\belke\\OneDrive\\Belgeler\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Services\\Basket\\FreeCourse.Services.Basket\\Services\\IBasketService.cs",
+              "RelativeToolTip": "Services\\Basket\\FreeCourse.Services.Basket\\Services\\IBasketService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T21:20:53.999Z",
+              "WhenOpened": "2025-05-22T21:13:21.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\belke\\OneDrive\\Belgeler\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Services\\Basket\\FreeCourse.Services.Basket\\Startup.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\FreeCourse.Services.Basket\\Startup.cs",
+              "ToolTip": "C:\\Users\\belke\\OneDrive\\Belgeler\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Services\\Basket\\FreeCourse.Services.Basket\\Startup.cs",
+              "RelativeToolTip": "Services\\Basket\\FreeCourse.Services.Basket\\Startup.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAB8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:08:42.077Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\belke\\OneDrive\\Belgeler\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\IdentityServer\\FreeCourse.IdentityServer\\Program.cs",
-              "RelativeDocumentMoniker": "IdentityServer\\FreeCourse.IdentityServer\\Program.cs",
-              "ToolTip": "C:\\Users\\belke\\OneDrive\\Belgeler\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\IdentityServer\\FreeCourse.IdentityServer\\Program.cs",
-              "RelativeToolTip": "IdentityServer\\FreeCourse.IdentityServer\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAADkAAAAYAAAAAAAAAA==",
+              "Title": "RedisSettings.cs",
+              "DocumentMoniker": "C:\\Users\\belke\\OneDrive\\Belgeler\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Services\\Basket\\FreeCourse.Services.Basket\\Settings\\RedisSettings.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\FreeCourse.Services.Basket\\Settings\\RedisSettings.cs",
+              "ToolTip": "C:\\Users\\belke\\OneDrive\\Belgeler\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Services\\Basket\\FreeCourse.Services.Basket\\Settings\\RedisSettings.cs",
+              "RelativeToolTip": "Services\\Basket\\FreeCourse.Services.Basket\\Settings\\RedisSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T20:28:16.064Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-22T21:08:15.251Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\belke\\OneDrive\\Belgeler\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\IdentityServer\\FreeCourse.IdentityServer\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "IdentityServer\\FreeCourse.IdentityServer\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\belke\\OneDrive\\Belgeler\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\IdentityServer\\FreeCourse.IdentityServer\\Controllers\\UserController.cs",
-              "RelativeToolTip": "IdentityServer\\FreeCourse.IdentityServer\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T20:27:31.726Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HostingExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\belke\\OneDrive\\Belgeler\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\IdentityServer\\FreeCourse.IdentityServer\\HostingExtensions.cs",
-              "RelativeDocumentMoniker": "IdentityServer\\FreeCourse.IdentityServer\\HostingExtensions.cs",
-              "ToolTip": "C:\\Users\\belke\\OneDrive\\Belgeler\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\IdentityServer\\FreeCourse.IdentityServer\\HostingExtensions.cs",
-              "RelativeToolTip": "IdentityServer\\FreeCourse.IdentityServer\\HostingExtensions.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAgwCYAAABlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T20:11:02.881Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CourseController.cs",
-              "DocumentMoniker": "C:\\Users\\belke\\OneDrive\\Belgeler\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Services\\Catalog\\FreeCourse.Services.Catalog\\Controllers\\CourseController.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\FreeCourse.Services.Catalog\\Controllers\\CourseController.cs",
-              "ToolTip": "C:\\Users\\belke\\OneDrive\\Belgeler\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Services\\Catalog\\FreeCourse.Services.Catalog\\Controllers\\CourseController.cs",
-              "RelativeToolTip": "Services\\Catalog\\FreeCourse.Services.Catalog\\Controllers\\CourseController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwCUAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T22:38:44.18Z",
-              "EditorCaption": ""
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\belke\\OneDrive\\Belgeler\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Services\\Basket\\FreeCourse.Services.Basket\\appsettings.json",
+              "RelativeDocumentMoniker": "Services\\Basket\\FreeCourse.Services.Basket\\appsettings.json",
+              "ToolTip": "C:\\Users\\belke\\OneDrive\\Belgeler\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Services\\Basket\\FreeCourse.Services.Basket\\appsettings.json",
+              "RelativeToolTip": "Services\\Basket\\FreeCourse.Services.Basket\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-22T21:04:50.73Z"
             }
           ]
         }
