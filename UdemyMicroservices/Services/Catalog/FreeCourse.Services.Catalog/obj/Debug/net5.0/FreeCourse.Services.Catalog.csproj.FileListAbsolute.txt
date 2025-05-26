@@ -58,7 +58,6 @@ C:\Users\obelkeci\Documents\GitHub\Udemy-Microservices-Course\UdemyMicroservices
 C:\Users\obelkeci\Documents\GitHub\Udemy-Microservices-Course\UdemyMicroservices\Services\Catalog\FreeCourse.Services.Catalog\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.FreeCourse.Services.Catalog.props
 C:\Users\obelkeci\Documents\GitHub\Udemy-Microservices-Course\UdemyMicroservices\Services\Catalog\FreeCourse.Services.Catalog\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.FreeCourse.Services.Catalog.props
 C:\Users\obelkeci\Documents\GitHub\Udemy-Microservices-Course\UdemyMicroservices\Services\Catalog\FreeCourse.Services.Catalog\obj\Debug\net5.0\FreeCourse.Services.Catalog.RazorTargetAssemblyInfo.cache
-C:\Users\obelkeci\Documents\GitHub\Udemy-Microservices-Course\UdemyMicroservices\Services\Catalog\FreeCourse.Services.Catalog\obj\Debug\net5.0\FreeCourse.Services.Catalog.csproj.CopyComplete
 C:\Users\obelkeci\Documents\GitHub\Udemy-Microservices-Course\UdemyMicroservices\Services\Catalog\FreeCourse.Services.Catalog\obj\Debug\net5.0\FreeCourse.Services.Catalog.dll
 C:\Users\obelkeci\Documents\GitHub\Udemy-Microservices-Course\UdemyMicroservices\Services\Catalog\FreeCourse.Services.Catalog\obj\Debug\net5.0\refint\FreeCourse.Services.Catalog.dll
 C:\Users\obelkeci\Documents\GitHub\Udemy-Microservices-Course\UdemyMicroservices\Services\Catalog\FreeCourse.Services.Catalog\obj\Debug\net5.0\FreeCourse.Services.Catalog.pdb
@@ -133,3 +132,12 @@ C:\Users\belke\OneDrive\Belgeler\GitHub\Udemy-Microservices-Course\UdemyMicroser
 C:\Users\belke\OneDrive\Belgeler\GitHub\Udemy-Microservices-Course\UdemyMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\belke\OneDrive\Belgeler\GitHub\Udemy-Microservices-Course\UdemyMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\belke\OneDrive\Belgeler\GitHub\Udemy-Microservices-Course\UdemyMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\obelkeci\Documents\GitHub\Udemy-Microservices-Course\UdemyMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\obelkeci\Documents\GitHub\Udemy-Microservices-Course\UdemyMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\obelkeci\Documents\GitHub\Udemy-Microservices-Course\UdemyMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\obelkeci\Documents\GitHub\Udemy-Microservices-Course\UdemyMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\obelkeci\Documents\GitHub\Udemy-Microservices-Course\UdemyMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\obelkeci\Documents\GitHub\Udemy-Microservices-Course\UdemyMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\obelkeci\Documents\GitHub\Udemy-Microservices-Course\UdemyMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\obelkeci\Documents\GitHub\Udemy-Microservices-Course\UdemyMicroservices\Services\Catalog\FreeCourse.Services.Catalog\obj\Debug\net5.0\FreeCourse.Services.Catalog.sourcelink.json
+C:\Users\obelkeci\Documents\GitHub\Udemy-Microservices-Course\UdemyMicroservices\Services\Catalog\FreeCourse.Services.Catalog\obj\Debug\net5.0\FreeCour.D7F5C481.Up2Date
