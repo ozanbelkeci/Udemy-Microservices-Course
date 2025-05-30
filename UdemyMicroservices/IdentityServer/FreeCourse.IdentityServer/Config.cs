@@ -9,6 +9,7 @@ public static class Config
     {
         new ApiResource("resource_catalog") { Scopes = { "catalog_fullpermission" },  UserClaims = { "aud" } },
         new ApiResource("resource_photo_stock") { Scopes = { "photo_stock_fullpermission" },  UserClaims = { "aud" }  },
+        new ApiResource("resource_basket") { Scopes = { "basket_fullpermission" },  UserClaims = { "aud" }  },
         new ApiResource(IdentityServerConstants.LocalApi.ScopeName)
     };
     
@@ -30,6 +31,7 @@ public static class Config
         {
             new ApiScope("catalog_fullpermission","Catalog API için full erişim"),
             new ApiScope("photo_stock_fullpermission","Photo Stock API için full erişim"),
+            new ApiScope("basket_fullpermission","Basket API için full erişim"),
             new ApiScope(IdentityServerConstants.LocalApi.ScopeName)
             //new ApiScope("scope1"),
             //new ApiScope("scope2"),
@@ -54,7 +56,8 @@ public static class Config
                 AllowOfflineAccess = true,
                 ClientSecrets = { new Secret("secret".Sha256()) },
                 AllowedGrantTypes = GrantTypes.ResourceOwnerPassword,
-                AllowedScopes = { 
+                AllowedScopes = {
+                    "basket_fullpermission",
                     IdentityServerConstants.StandardScopes.Email, 
                     IdentityServerConstants.StandardScopes.OpenId, 
                     IdentityServerConstants.StandardScopes.Profile, 
