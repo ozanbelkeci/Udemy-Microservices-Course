@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\obelkeci\\Documents\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1CC22602-02E0-466E-ACA2-F2F183981F93}|Services\\Discount\\FreeCourse.Services.Discount\\FreeCourse.Services.Discount.csproj|c:\\users\\obelkeci\\documents\\github\\udemy-microservices-course\\udemymicroservices\\services\\discount\\freecourse.services.discount\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CC22602-02E0-466E-ACA2-F2F183981F93}|Services\\Discount\\FreeCourse.Services.Discount\\FreeCourse.Services.Discount.csproj|solutionrelative:services\\discount\\freecourse.services.discount\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4CCAF851-494B-41A8-A904-2DA2BFBBCB1F}|Services\\Order\\FreeCourse.Services.Order.Domain\\FreeCourse.Services.Order.Domain.csproj|c:\\users\\obelkeci\\documents\\github\\udemy-microservices-course\\udemymicroservices\\services\\order\\freecourse.services.order.domain\\orderaggregate\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CCAF851-494B-41A8-A904-2DA2BFBBCB1F}|Services\\Order\\FreeCourse.Services.Order.Domain\\FreeCourse.Services.Order.Domain.csproj|solutionrelative:services\\order\\freecourse.services.order.domain\\orderaggregate\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6AFE42CB-9751-4008-9539-F16A074D1649}|Services\\Basket\\FreeCourse.Services.Basket\\FreeCourse.Services.Basket.csproj|c:\\users\\obelkeci\\documents\\github\\udemy-microservices-course\\udemymicroservices\\services\\basket\\freecourse.services.basket\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6AFE42CB-9751-4008-9539-F16A074D1649}|Services\\Basket\\FreeCourse.Services.Basket\\FreeCourse.Services.Basket.csproj|solutionrelative:services\\basket\\freecourse.services.basket\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4CCAF851-494B-41A8-A904-2DA2BFBBCB1F}|Services\\Order\\FreeCourse.Services.Order.Domain\\FreeCourse.Services.Order.Domain.csproj|c:\\users\\obelkeci\\documents\\github\\udemy-microservices-course\\udemymicroservices\\services\\order\\freecourse.services.order.domain\\orderaggregate\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CCAF851-494B-41A8-A904-2DA2BFBBCB1F}|Services\\Order\\FreeCourse.Services.Order.Domain\\FreeCourse.Services.Order.Domain.csproj|solutionrelative:services\\order\\freecourse.services.order.domain\\orderaggregate\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCAF851-494B-41A8-A904-2DA2BFBBCB1F}|Services\\Order\\FreeCourse.Services.Order.Domain\\FreeCourse.Services.Order.Domain.csproj|c:\\users\\obelkeci\\documents\\github\\udemy-microservices-course\\udemymicroservices\\services\\order\\freecourse.services.order.domain\\orderaggregate\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CCAF851-494B-41A8-A904-2DA2BFBBCB1F}|Services\\Order\\FreeCourse.Services.Order.Domain\\FreeCourse.Services.Order.Domain.csproj|solutionrelative:services\\order\\freecourse.services.order.domain\\orderaggregate\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6B62DF-F098-450C-80D1-ACB1626F3DB1}|Services\\Order\\FreeCourse.Services.Order.Domain.Core\\FreeCourse.Services.Order.Domain.Core.csproj|c:\\users\\obelkeci\\documents\\github\\udemy-microservices-course\\udemymicroservices\\services\\order\\freecourse.services.order.domain.core\\valueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6B62DF-F098-450C-80D1-ACB1626F3DB1}|Services\\Order\\FreeCourse.Services.Order.Domain.Core\\FreeCourse.Services.Order.Domain.Core.csproj|solutionrelative:services\\order\\freecourse.services.order.domain.core\\valueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6B62DF-F098-450C-80D1-ACB1626F3DB1}|Services\\Order\\FreeCourse.Services.Order.Domain.Core\\FreeCourse.Services.Order.Domain.Core.csproj|c:\\users\\obelkeci\\documents\\github\\udemy-microservices-course\\udemymicroservices\\services\\order\\freecourse.services.order.domain.core\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6B62DF-F098-450C-80D1-ACB1626F3DB1}|Services\\Order\\FreeCourse.Services.Order.Domain.Core\\FreeCourse.Services.Order.Domain.Core.csproj|solutionrelative:services\\order\\freecourse.services.order.domain.core\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6B62DF-F098-450C-80D1-ACB1626F3DB1}|Services\\Order\\FreeCourse.Services.Order.Domain.Core\\FreeCourse.Services.Order.Domain.Core.csproj|c:\\users\\obelkeci\\documents\\github\\udemy-microservices-course\\udemymicroservices\\services\\order\\freecourse.services.order.domain.core\\iaggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6B62DF-F098-450C-80D1-ACB1626F3DB1}|Services\\Order\\FreeCourse.Services.Order.Domain.Core\\FreeCourse.Services.Order.Domain.Core.csproj|solutionrelative:services\\order\\freecourse.services.order.domain.core\\iaggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,36 +34,88 @@
       "DocumentGroups": [
         {
           "DockedWidth": 467,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\Users\\obelkeci\\Documents\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Services\\Discount\\FreeCourse.Services.Discount\\Startup.cs",
-              "RelativeDocumentMoniker": "Services\\Discount\\FreeCourse.Services.Discount\\Startup.cs",
-              "ToolTip": "C:\\Users\\obelkeci\\Documents\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Services\\Discount\\FreeCourse.Services.Discount\\Startup.cs",
-              "RelativeToolTip": "Services\\Discount\\FreeCourse.Services.Discount\\Startup.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAiwEQAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T14:06:14.262Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\Users\\obelkeci\\Documents\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Services\\Basket\\FreeCourse.Services.Basket\\Startup.cs",
-              "RelativeDocumentMoniker": "Services\\Basket\\FreeCourse.Services.Basket\\Startup.cs",
-              "ToolTip": "C:\\Users\\obelkeci\\Documents\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Services\\Basket\\FreeCourse.Services.Basket\\Startup.cs",
-              "RelativeToolTip": "Services\\Basket\\FreeCourse.Services.Basket\\Startup.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAwwFQAAAAVAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\obelkeci\\Documents\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.Domain\\OrderAggregate\\Order.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\FreeCourse.Services.Order.Domain\\OrderAggregate\\Order.cs",
+              "ToolTip": "C:\\Users\\obelkeci\\Documents\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.Domain\\OrderAggregate\\Order.cs",
+              "RelativeToolTip": "Services\\Order\\FreeCourse.Services.Order.Domain\\OrderAggregate\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T14:06:11.878Z",
+              "WhenOpened": "2025-06-12T14:00:22.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\obelkeci\\Documents\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.Domain\\OrderAggregate\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\FreeCourse.Services.Order.Domain\\OrderAggregate\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\obelkeci\\Documents\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.Domain\\OrderAggregate\\OrderItem.cs",
+              "RelativeToolTip": "Services\\Order\\FreeCourse.Services.Order.Domain\\OrderAggregate\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T13:56:17.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\obelkeci\\Documents\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.Domain\\OrderAggregate\\Address.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\FreeCourse.Services.Order.Domain\\OrderAggregate\\Address.cs",
+              "ToolTip": "C:\\Users\\obelkeci\\Documents\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.Domain\\OrderAggregate\\Address.cs",
+              "RelativeToolTip": "Services\\Order\\FreeCourse.Services.Order.Domain\\OrderAggregate\\Address.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T07:57:11.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAggregateRoot.cs",
+              "DocumentMoniker": "C:\\Users\\obelkeci\\Documents\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.Domain.Core\\IAggregateRoot.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\FreeCourse.Services.Order.Domain.Core\\IAggregateRoot.cs",
+              "ToolTip": "C:\\Users\\obelkeci\\Documents\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.Domain.Core\\IAggregateRoot.cs",
+              "RelativeToolTip": "Services\\Order\\FreeCourse.Services.Order.Domain.Core\\IAggregateRoot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T07:36:55.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ValueObject.cs",
+              "DocumentMoniker": "C:\\Users\\obelkeci\\Documents\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.Domain.Core\\ValueObject.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\FreeCourse.Services.Order.Domain.Core\\ValueObject.cs",
+              "ToolTip": "C:\\Users\\obelkeci\\Documents\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.Domain.Core\\ValueObject.cs",
+              "RelativeToolTip": "Services\\Order\\FreeCourse.Services.Order.Domain.Core\\ValueObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T07:36:22.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\obelkeci\\Documents\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.Domain.Core\\Entity.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\FreeCourse.Services.Order.Domain.Core\\Entity.cs",
+              "ToolTip": "C:\\Users\\obelkeci\\Documents\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.Domain.Core\\Entity.cs",
+              "RelativeToolTip": "Services\\Order\\FreeCourse.Services.Order.Domain.Core\\Entity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T07:36:05.068Z",
               "EditorCaption": ""
             }
           ]
