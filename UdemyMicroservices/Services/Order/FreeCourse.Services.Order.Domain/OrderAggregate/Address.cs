@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace FreeCourse.Services.Order.Domain.OrderAggregate
 {
+    
     public class Address : ValueObject
     {
         public string Province { get; private set; }
