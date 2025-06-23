@@ -1,9 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\obelkeci\\Documents\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\",
+  "WorkspaceRootPath": "C:\\Users\\belke\\OneDrive\\Belgeler\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F4FE8F08-E189-48BC-A82F-32CD09B6C20D}|Services\\Order\\FreeCourse.Services.Order.Infrastructure\\FreeCourse.Services.Order.Infrastructure.csproj|c:\\users\\obelkeci\\documents\\github\\udemy-microservices-course\\udemymicroservices\\services\\order\\freecourse.services.order.infrastructure\\orderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5960C269-3D4A-4219-9D69-5F227C52778A}|Services\\Order\\FreeCourse.Services.Order.Application\\FreeCourse.Services.Order.Application.csproj|c:\\users\\belke\\onedrive\\belgeler\\github\\udemy-microservices-course\\udemymicroservices\\services\\order\\freecourse.services.order.application\\dtos\\createdorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5960C269-3D4A-4219-9D69-5F227C52778A}|Services\\Order\\FreeCourse.Services.Order.Application\\FreeCourse.Services.Order.Application.csproj|solutionrelative:services\\order\\freecourse.services.order.application\\dtos\\createdorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5960C269-3D4A-4219-9D69-5F227C52778A}|Services\\Order\\FreeCourse.Services.Order.Application\\FreeCourse.Services.Order.Application.csproj|c:\\users\\belke\\onedrive\\belgeler\\github\\udemy-microservices-course\\udemymicroservices\\services\\order\\freecourse.services.order.application\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5960C269-3D4A-4219-9D69-5F227C52778A}|Services\\Order\\FreeCourse.Services.Order.Application\\FreeCourse.Services.Order.Application.csproj|solutionrelative:services\\order\\freecourse.services.order.application\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5960C269-3D4A-4219-9D69-5F227C52778A}|Services\\Order\\FreeCourse.Services.Order.Application\\FreeCourse.Services.Order.Application.csproj|c:\\users\\belke\\onedrive\\belgeler\\github\\udemy-microservices-course\\udemymicroservices\\services\\order\\freecourse.services.order.application\\dtos\\addressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5960C269-3D4A-4219-9D69-5F227C52778A}|Services\\Order\\FreeCourse.Services.Order.Application\\FreeCourse.Services.Order.Application.csproj|solutionrelative:services\\order\\freecourse.services.order.application\\dtos\\addressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5960C269-3D4A-4219-9D69-5F227C52778A}|Services\\Order\\FreeCourse.Services.Order.Application\\FreeCourse.Services.Order.Application.csproj|c:\\users\\belke\\onedrive\\belgeler\\github\\udemy-microservices-course\\udemymicroservices\\services\\order\\freecourse.services.order.application\\dtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5960C269-3D4A-4219-9D69-5F227C52778A}|Services\\Order\\FreeCourse.Services.Order.Application\\FreeCourse.Services.Order.Application.csproj|solutionrelative:services\\order\\freecourse.services.order.application\\dtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCAF851-494B-41A8-A904-2DA2BFBBCB1F}|Services\\Order\\FreeCourse.Services.Order.Domain\\FreeCourse.Services.Order.Domain.csproj|c:\\users\\belke\\onedrive\\belgeler\\github\\udemy-microservices-course\\udemymicroservices\\services\\order\\freecourse.services.order.domain\\orderaggregate\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CCAF851-494B-41A8-A904-2DA2BFBBCB1F}|Services\\Order\\FreeCourse.Services.Order.Domain\\FreeCourse.Services.Order.Domain.csproj|solutionrelative:services\\order\\freecourse.services.order.domain\\orderaggregate\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCAF851-494B-41A8-A904-2DA2BFBBCB1F}|Services\\Order\\FreeCourse.Services.Order.Domain\\FreeCourse.Services.Order.Domain.csproj|c:\\users\\belke\\onedrive\\belgeler\\github\\udemy-microservices-course\\udemymicroservices\\services\\order\\freecourse.services.order.domain\\orderaggregate\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CCAF851-494B-41A8-A904-2DA2BFBBCB1F}|Services\\Order\\FreeCourse.Services.Order.Domain\\FreeCourse.Services.Order.Domain.csproj|solutionrelative:services\\order\\freecourse.services.order.domain\\orderaggregate\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FE8F08-E189-48BC-A82F-32CD09B6C20D}|Services\\Order\\FreeCourse.Services.Order.Infrastructure\\FreeCourse.Services.Order.Infrastructure.csproj|c:\\users\\belke\\onedrive\\belgeler\\github\\udemy-microservices-course\\udemymicroservices\\services\\order\\freecourse.services.order.infrastructure\\orderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4FE8F08-E189-48BC-A82F-32CD09B6C20D}|Services\\Order\\FreeCourse.Services.Order.Infrastructure\\FreeCourse.Services.Order.Infrastructure.csproj|solutionrelative:services\\order\\freecourse.services.order.infrastructure\\orderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -23,15 +47,87 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "OrderDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\obelkeci\\Documents\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.Infrastructure\\OrderDbContext.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\FreeCourse.Services.Order.Infrastructure\\OrderDbContext.cs",
-              "ToolTip": "C:\\Users\\obelkeci\\Documents\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.Infrastructure\\OrderDbContext.cs",
-              "RelativeToolTip": "Services\\Order\\FreeCourse.Services.Order.Infrastructure\\OrderDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABXAAAAAAAAAA==",
+              "Title": "CreatedOrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\belke\\OneDrive\\Belgeler\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.Application\\Dtos\\CreatedOrderDto.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\FreeCourse.Services.Order.Application\\Dtos\\CreatedOrderDto.cs",
+              "ToolTip": "C:\\Users\\belke\\OneDrive\\Belgeler\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.Application\\Dtos\\CreatedOrderDto.cs",
+              "RelativeToolTip": "Services\\Order\\FreeCourse.Services.Order.Application\\Dtos\\CreatedOrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T14:26:14.437Z",
+              "WhenOpened": "2025-06-14T09:04:29.77Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\belke\\OneDrive\\Belgeler\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.Domain\\OrderAggregate\\Order.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\FreeCourse.Services.Order.Domain\\OrderAggregate\\Order.cs",
+              "ToolTip": "C:\\Users\\belke\\OneDrive\\Belgeler\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.Domain\\OrderAggregate\\Order.cs",
+              "RelativeToolTip": "Services\\Order\\FreeCourse.Services.Order.Domain\\OrderAggregate\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T08:59:59.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\belke\\OneDrive\\Belgeler\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.Application\\Dtos\\OrderDto.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\FreeCourse.Services.Order.Application\\Dtos\\OrderDto.cs",
+              "ToolTip": "C:\\Users\\belke\\OneDrive\\Belgeler\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.Application\\Dtos\\OrderDto.cs",
+              "RelativeToolTip": "Services\\Order\\FreeCourse.Services.Order.Application\\Dtos\\OrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T08:59:54.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\belke\\OneDrive\\Belgeler\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.Domain\\OrderAggregate\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\FreeCourse.Services.Order.Domain\\OrderAggregate\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\belke\\OneDrive\\Belgeler\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.Domain\\OrderAggregate\\OrderItem.cs",
+              "RelativeToolTip": "Services\\Order\\FreeCourse.Services.Order.Domain\\OrderAggregate\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T08:59:38.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\belke\\OneDrive\\Belgeler\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.Application\\Dtos\\OrderItemDto.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\FreeCourse.Services.Order.Application\\Dtos\\OrderItemDto.cs",
+              "ToolTip": "C:\\Users\\belke\\OneDrive\\Belgeler\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.Application\\Dtos\\OrderItemDto.cs",
+              "RelativeToolTip": "Services\\Order\\FreeCourse.Services.Order.Application\\Dtos\\OrderItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T08:59:13.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddressDto.cs",
+              "DocumentMoniker": "C:\\Users\\belke\\OneDrive\\Belgeler\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.Application\\Dtos\\AddressDto.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\FreeCourse.Services.Order.Application\\Dtos\\AddressDto.cs",
+              "ToolTip": "C:\\Users\\belke\\OneDrive\\Belgeler\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.Application\\Dtos\\AddressDto.cs",
+              "RelativeToolTip": "Services\\Order\\FreeCourse.Services.Order.Application\\Dtos\\AddressDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T08:57:52.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\belke\\OneDrive\\Belgeler\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.Infrastructure\\OrderDbContext.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\FreeCourse.Services.Order.Infrastructure\\OrderDbContext.cs",
+              "ToolTip": "C:\\Users\\belke\\OneDrive\\Belgeler\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.Infrastructure\\OrderDbContext.cs",
+              "RelativeToolTip": "Services\\Order\\FreeCourse.Services.Order.Infrastructure\\OrderDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T14:26:14.437Z"
             }
           ]
         }
