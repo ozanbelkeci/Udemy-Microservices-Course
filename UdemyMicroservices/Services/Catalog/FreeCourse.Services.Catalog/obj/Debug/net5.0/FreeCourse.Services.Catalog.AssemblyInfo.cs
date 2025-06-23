@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FreeCourse.Services.Catalog")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2b15186bba90362dc350351714c472c37a38406")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc36d78402ccbde9141a35b541986b72c3f66e09")]
 [assembly: System.Reflection.AssemblyProductAttribute("FreeCourse.Services.Catalog")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FreeCourse.Services.Catalog")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
