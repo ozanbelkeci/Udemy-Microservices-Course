@@ -3,17 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\belke\\OneDrive\\Belgeler\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\",
   "Documents": [
     {
-<<<<<<< HEAD
-      "AbsoluteMoniker": "D:0:0:{22005594-F2F3-4486-BE0F-C9458F206E36}|Services\\FakePayment\\FreeCourse.Services.FakePayment\\FreeCourse.Services.FakePayment.csproj|c:\\users\\belke\\onedrive\\belgeler\\github\\udemy-microservices-course\\udemymicroservices\\services\\fakepayment\\freecourse.services.fakepayment\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22005594-F2F3-4486-BE0F-C9458F206E36}|Services\\FakePayment\\FreeCourse.Services.FakePayment\\FreeCourse.Services.FakePayment.csproj|solutionrelative:services\\fakepayment\\freecourse.services.fakepayment\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22005594-F2F3-4486-BE0F-C9458F206E36}|Services\\FakePayment\\FreeCourse.Services.FakePayment\\FreeCourse.Services.FakePayment.csproj|c:\\users\\belke\\onedrive\\belgeler\\github\\udemy-microservices-course\\udemymicroservices\\services\\fakepayment\\freecourse.services.fakepayment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22005594-F2F3-4486-BE0F-C9458F206E36}|Services\\FakePayment\\FreeCourse.Services.FakePayment\\FreeCourse.Services.FakePayment.csproj|solutionrelative:services\\fakepayment\\freecourse.services.fakepayment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22005594-F2F3-4486-BE0F-C9458F206E36}|Services\\FakePayment\\FreeCourse.Services.FakePayment\\FreeCourse.Services.FakePayment.csproj|c:\\users\\belke\\onedrive\\belgeler\\github\\udemy-microservices-course\\udemymicroservices\\services\\fakepayment\\freecourse.services.fakepayment\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{22005594-F2F3-4486-BE0F-C9458F206E36}|Services\\FakePayment\\FreeCourse.Services.FakePayment\\FreeCourse.Services.FakePayment.csproj|solutionrelative:services\\fakepayment\\freecourse.services.fakepayment\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\belke\\OneDrive\\Belgeler\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Services\\FakePayment\\FreeCourse.Services.FakePayment\\Startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\FakePayment\\FreeCourse.Services.FakePayment\\Startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5637479A-2D2E-4AF0-8F18-EA06367EF5CD}|Solution Items{5637479A-2D2E-4AF0-8F18-EA06367EF5CD}|C:\\Users\\belke\\OneDrive\\Belgeler\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Ports.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -34,34 +25,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{F57BC86B-99FD-4804-94F1-867CDC9AB146}|Services\\Order\\FreeCourse.Services.Order.API\\FreeCourse.Services.Order.API.csproj|c:\\users\\belke\\onedrive\\belgeler\\github\\udemy-microservices-course\\udemymicroservices\\services\\order\\freecourse.services.order.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F57BC86B-99FD-4804-94F1-867CDC9AB146}|Services\\Order\\FreeCourse.Services.Order.API\\FreeCourse.Services.Order.API.csproj|solutionrelative:services\\order\\freecourse.services.order.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-=======
-      "AbsoluteMoniker": "D:0:0:{538E09E9-5F76-4A27-965B-A731E74E4228}|Services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj|c:\\users\\obelkeci\\documents\\github\\udemy-microservices-course\\udemymicroservices\\services\\catalog\\freecourse.services.catalog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{538E09E9-5F76-4A27-965B-A731E74E4228}|Services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj|solutionrelative:services\\catalog\\freecourse.services.catalog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3DC8AA0-2B95-445D-8915-2D403877AB6B}|FreeCourse.Gateway\\FreeCourse.Gateway.csproj|c:\\users\\obelkeci\\documents\\github\\udemy-microservices-course\\udemymicroservices\\freecourse.gateway\\configuration.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C3DC8AA0-2B95-445D-8915-2D403877AB6B}|FreeCourse.Gateway\\FreeCourse.Gateway.csproj|solutionrelative:freecourse.gateway\\configuration.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\belke\\OneDrive\\Belgeler\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Services\\FakePayment\\FreeCourse.Services.FakePayment\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\FakePayment\\FreeCourse.Services.FakePayment\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5637479A-2D2E-4AF0-8F18-EA06367EF5CD}|Solution Items{5637479A-2D2E-4AF0-8F18-EA06367EF5CD}|C:\\Users\\obelkeci\\Documents\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Ports.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{5637479A-2D2E-4AF0-8F18-EA06367EF5CD}|Solution Items{5637479A-2D2E-4AF0-8F18-EA06367EF5CD}|solutionrelative:Ports.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3DC8AA0-2B95-445D-8915-2D403877AB6B}|FreeCourse.Gateway\\FreeCourse.Gateway.csproj|c:\\users\\obelkeci\\documents\\github\\udemy-microservices-course\\udemymicroservices\\freecourse.gateway\\configuration.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C3DC8AA0-2B95-445D-8915-2D403877AB6B}|FreeCourse.Gateway\\FreeCourse.Gateway.csproj|solutionrelative:freecourse.gateway\\configuration.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3DC8AA0-2B95-445D-8915-2D403877AB6B}|FreeCourse.Gateway\\FreeCourse.Gateway.csproj|c:\\users\\obelkeci\\documents\\github\\udemy-microservices-course\\udemymicroservices\\freecourse.gateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3DC8AA0-2B95-445D-8915-2D403877AB6B}|FreeCourse.Gateway\\FreeCourse.Gateway.csproj|solutionrelative:freecourse.gateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3DC8AA0-2B95-445D-8915-2D403877AB6B}|FreeCourse.Gateway\\FreeCourse.Gateway.csproj|c:\\users\\obelkeci\\documents\\github\\udemy-microservices-course\\udemymicroservices\\freecourse.gateway\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3DC8AA0-2B95-445D-8915-2D403877AB6B}|FreeCourse.Gateway\\FreeCourse.Gateway.csproj|solutionrelative:freecourse.gateway\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3DC8AA0-2B95-445D-8915-2D403877AB6B}|FreeCourse.Gateway\\FreeCourse.Gateway.csproj|c:\\users\\obelkeci\\documents\\github\\udemy-microservices-course\\udemymicroservices\\freecourse.gateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C3DC8AA0-2B95-445D-8915-2D403877AB6B}|FreeCourse.Gateway\\FreeCourse.Gateway.csproj|solutionrelative:freecourse.gateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
->>>>>>> 45456291a92b23f1f70c6e9d06c85e42b1a201e6
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\belke\\OneDrive\\Belgeler\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Services\\FakePayment\\FreeCourse.Services.FakePayment\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\FakePayment\\FreeCourse.Services.FakePayment\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -80,57 +51,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-<<<<<<< HEAD
               "Title": "Startup.cs",
               "DocumentMoniker": "C:\\Users\\belke\\OneDrive\\Belgeler\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Services\\FakePayment\\FreeCourse.Services.FakePayment\\Startup.cs",
               "RelativeDocumentMoniker": "Services\\FakePayment\\FreeCourse.Services.FakePayment\\Startup.cs",
               "ToolTip": "C:\\Users\\belke\\OneDrive\\Belgeler\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Services\\FakePayment\\FreeCourse.Services.FakePayment\\Startup.cs",
               "RelativeToolTip": "Services\\FakePayment\\FreeCourse.Services.FakePayment\\Startup.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACkAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T00:52:14.349Z",
-=======
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\obelkeci\\Documents\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Services\\Catalog\\FreeCourse.Services.Catalog\\Program.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\FreeCourse.Services.Catalog\\Program.cs",
-              "ToolTip": "C:\\Users\\obelkeci\\Documents\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Services\\Catalog\\FreeCourse.Services.Catalog\\Program.cs",
-              "RelativeToolTip": "Services\\Catalog\\FreeCourse.Services.Catalog\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T14:22:22.474Z",
+              "WhenOpened": "2025-10-22T21:02:47.175Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "configuration.production.json",
-              "DocumentMoniker": "C:\\Users\\obelkeci\\Documents\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\FreeCourse.Gateway\\configuration.production.json",
-              "RelativeDocumentMoniker": "FreeCourse.Gateway\\configuration.production.json",
-              "ToolTip": "C:\\Users\\obelkeci\\Documents\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\FreeCourse.Gateway\\configuration.production.json",
-              "RelativeToolTip": "FreeCourse.Gateway\\configuration.production.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-22T13:51:20.23Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\obelkeci\\Documents\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\FreeCourse.Gateway\\Program.cs",
-              "RelativeDocumentMoniker": "FreeCourse.Gateway\\Program.cs",
-              "ToolTip": "C:\\Users\\obelkeci\\Documents\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\FreeCourse.Gateway\\Program.cs",
-              "RelativeToolTip": "FreeCourse.Gateway\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T13:42:32.169Z",
->>>>>>> 45456291a92b23f1f70c6e9d06c85e42b1a201e6
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-<<<<<<< HEAD
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\belke\\OneDrive\\Belgeler\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Services\\FakePayment\\FreeCourse.Services.FakePayment\\Program.cs",
               "RelativeDocumentMoniker": "Services\\FakePayment\\FreeCourse.Services.FakePayment\\Program.cs",
@@ -138,11 +71,11 @@
               "RelativeToolTip": "Services\\FakePayment\\FreeCourse.Services.FakePayment\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T00:52:12.338Z"
+              "WhenOpened": "2025-10-22T21:02:47.271Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\belke\\OneDrive\\Belgeler\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Services\\FakePayment\\FreeCourse.Services.FakePayment\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Services\\FakePayment\\FreeCourse.Services.FakePayment\\Properties\\launchSettings.json",
@@ -150,11 +83,11 @@
               "RelativeToolTip": "Services\\FakePayment\\FreeCourse.Services.FakePayment\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-28T22:06:20.55Z"
+              "WhenOpened": "2025-10-22T21:02:47.273Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Ports.txt",
               "DocumentMoniker": "C:\\Users\\belke\\OneDrive\\Belgeler\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Ports.txt",
               "RelativeDocumentMoniker": "Ports.txt",
@@ -166,7 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\belke\\OneDrive\\Belgeler\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.API\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Services\\Order\\FreeCourse.Services.Order.API\\Properties\\launchSettings.json",
@@ -178,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "CreateOrderCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\belke\\OneDrive\\Belgeler\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.Application\\Handlers\\CreateOrderCommandHandler.cs",
               "RelativeDocumentMoniker": "Services\\Order\\FreeCourse.Services.Order.Application\\Handlers\\CreateOrderCommandHandler.cs",
@@ -187,35 +120,10 @@
               "ViewState": "AgIAAAcAAAAAAAAAAAAIwBoAAACdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-28T21:47:28.314Z"
-=======
-              "Title": "configuration.development.json",
-              "DocumentMoniker": "C:\\Users\\obelkeci\\Documents\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\FreeCourse.Gateway\\configuration.development.json",
-              "RelativeDocumentMoniker": "FreeCourse.Gateway\\configuration.development.json",
-              "ToolTip": "C:\\Users\\obelkeci\\Documents\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\FreeCourse.Gateway\\configuration.development.json",
-              "RelativeToolTip": "FreeCourse.Gateway\\configuration.development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-22T13:41:18.509Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\Users\\obelkeci\\Documents\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\FreeCourse.Gateway\\Startup.cs",
-              "RelativeDocumentMoniker": "FreeCourse.Gateway\\Startup.cs",
-              "ToolTip": "C:\\Users\\obelkeci\\Documents\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\FreeCourse.Gateway\\Startup.cs",
-              "RelativeToolTip": "FreeCourse.Gateway\\Startup.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T13:16:46.035Z",
-              "EditorCaption": ""
->>>>>>> 45456291a92b23f1f70c6e9d06c85e42b1a201e6
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-<<<<<<< HEAD
+              "DocumentIndex": 4,
               "Title": "CreateOrderCommand.cs",
               "DocumentMoniker": "C:\\Users\\belke\\OneDrive\\Belgeler\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.Application\\Commands\\CreateOrderCommand.cs",
               "RelativeDocumentMoniker": "Services\\Order\\FreeCourse.Services.Order.Application\\Commands\\CreateOrderCommand.cs",
@@ -227,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "OrdersController.cs",
               "DocumentMoniker": "C:\\Users\\belke\\OneDrive\\Belgeler\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Services\\Order\\FreeCourse.Services.Order.API\\Controllers\\OrdersController.cs",
               "RelativeDocumentMoniker": "Services\\Order\\FreeCourse.Services.Order.API\\Controllers\\OrdersController.cs",
@@ -236,29 +144,6 @@
               "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-28T21:46:15.05Z"
-=======
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\obelkeci\\Documents\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\FreeCourse.Gateway\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "FreeCourse.Gateway\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\obelkeci\\Documents\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\FreeCourse.Gateway\\Properties\\launchSettings.json",
-              "RelativeToolTip": "FreeCourse.Gateway\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-22T12:58:26.73Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Ports.txt",
-              "DocumentMoniker": "C:\\Users\\obelkeci\\Documents\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Ports.txt",
-              "RelativeDocumentMoniker": "Ports.txt",
-              "ToolTip": "C:\\Users\\obelkeci\\Documents\\GitHub\\Udemy-Microservices-Course\\UdemyMicroservices\\Ports.txt",
-              "RelativeToolTip": "Ports.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-10-22T12:57:07.899Z",
-              "EditorCaption": ""
->>>>>>> 45456291a92b23f1f70c6e9d06c85e42b1a201e6
             }
           ]
         }
