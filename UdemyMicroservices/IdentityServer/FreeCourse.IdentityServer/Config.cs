@@ -12,6 +12,7 @@ public static class Config
         new ApiResource("resource_basket") { Scopes = { "basket_fullpermission" },  UserClaims = { "aud" }  },
         new ApiResource("resource_discount") { Scopes = { "discount_fullpermission" },  UserClaims = { "aud" }  },
         new ApiResource("resource_order") { Scopes = { "order_fullpermission" },  UserClaims = { "aud" }  },
+        new ApiResource("resource_payment") { Scopes = { "payment_fullpermission" },  UserClaims = { "aud" }  },
         new ApiResource(IdentityServerConstants.LocalApi.ScopeName)
     };
     
@@ -36,6 +37,7 @@ public static class Config
             new ApiScope("basket_fullpermission","Basket API için full erişim"),
             new ApiScope("discount_fullpermission","Discount API için full erişim"),
             new ApiScope("order_fullpermission","Order API için full erişim"),
+            new ApiScope("payment_fullpermission","Payment API için full erişim"),
             new ApiScope(IdentityServerConstants.LocalApi.ScopeName)
             //new ApiScope("scope1"),
             //new ApiScope("scope2"),
@@ -64,6 +66,7 @@ public static class Config
                     "basket_fullpermission",
                     "discount_fullpermission",
                     "order_fullpermission",
+                    "payment_fullpermission",
                     IdentityServerConstants.StandardScopes.Email, 
                     IdentityServerConstants.StandardScopes.OpenId, 
                     IdentityServerConstants.StandardScopes.Profile, 
